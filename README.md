@@ -18,6 +18,7 @@
 
 <p align="center">
   <img src="./assets/preview.png" width="100%">
+  <img src="./assets/preview2.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
